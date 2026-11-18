@@ -4,7 +4,7 @@
 
 📍 Quezon City, Metro Manila  
 📧 **Email:** [marielsobiono04@gmail.com](mailto:marielsobiono04@gmail.com)  
-📁 **Portfolio:** [[Sobiono-k](https://github.com/Sobiono-k](https://ms-sobiono-webportfolio.vercel.app/))
+📁 **Portfolio:** [ms-sobiono-webportfolio.vercel.app](https://ms-sobiono-webportfolio.vercel.app/)
 
 ---
 
